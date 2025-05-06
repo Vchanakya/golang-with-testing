@@ -7,7 +7,7 @@ In Go, you can declare variables in two main ways:
 
 ---
 
-## Example Code (with detailed comments)
+## Example Code
 
 ```go
 // 1. Package declaration
